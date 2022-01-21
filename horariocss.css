@@ -1,0 +1,58 @@
+.DAM {
+
+	background-color: skyblue;
+}
+.ANG {
+background-color: red;
+}
+.FOL {
+	background-color: orange;
+}
+.PROG {
+	background-color: gold;
+}
+.ED {
+background-color: purple;
+}
+.BDA {
+	background-color: darkgreen;
+}
+.SI {
+background-color: darkred;
+
+}
+.LLMM {
+	background-color: green;
+}
+
+.HORARIO {
+	background-color: royalblue;
+}
+.BREAK {
+background-color: palevioletred;
+}
+.DIAS {
+	background-color: greenyellow;
+}
+
+
+#LISTA {
+	background-color: green;
+	list-style-type: square;
+	color: orange;
+	border-color: red;
+
+
+}
+
+
+
+td , th{
+			border-style: solid;
+			border-color: orange;
+			border: 4px solid steelblue;
+			align-content: center;
+
+
+
+		}
