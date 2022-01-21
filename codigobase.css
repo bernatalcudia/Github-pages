@@ -1,0 +1,37 @@
+body {
+	color:#00F ;
+	background-color: #CFC;
+	font-family : Georgia,Cambria,serif;
+	size: 16px;
+	
+}
+
+h1 {
+	color: #F00;
+	size: 24px;
+}
+
+h2 {
+	color: darkred;
+}
+
+ul {
+	font-style: italic;
+	text-indent: 4px;
+}
+
+
+.datos {
+	color: #060;
+
+}
+.blued {
+	size: 20px;
+	font-weight: bold;
+}
+.blackd {
+	color: #FFF;
+	background-color: #000;
+	font-style: italic;
+}
+
